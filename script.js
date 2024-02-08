@@ -248,7 +248,7 @@ let firstName = "Jonas"; */
 // } else {
 //   console.log("sen darhol ish topishing kerak");
 // }
-
+//
 // let height = 1.99;
 // if (height) {
 //   console.log("Hey height is defined");
