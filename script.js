@@ -261,3 +261,88 @@ let firstName = "Jonas"; */
 // console.log(Boolean(true));
 // console.log(Boolean({}));
 // console.log(Boolean([]));
+
+// const firstName = "Tom";
+// let age = 15;
+// // tom 15 yoshda
+// console.log("Tom 15 yoshda");
+
+// console.log(`${firstName} ${age} yoshda`);
+
+// console.log(15 - "10"); //
+// console.log("15" + "10"); //
+// console.log("15" * "10"); //
+
+// const age = 14;
+
+// if (age >= 15) {
+//   console.log("Tom is greater 15");
+// } else {
+//   console.log("Tom isn't greater 15");
+// }
+
+// falsy =>     null, undefined, 0, "", NaN
+
+// const age = 15;
+// const firstName = "Tom";
+// const birthYear = 2009;
+// const job = "coder";
+
+// console.log(
+//   `Mening ismim ${firstName} ${birthYear} yilda tugilganma i'm a ${job}`
+// );
+
+// if (age >= 18) {
+//   console.log("I am older");
+// } else {
+//   console.log("I am younger");
+// }
+
+// const age = 18;
+// if (age === 18) console.log("I am older");
+
+// console.log(18 === "18");
+
+// const age = "18";
+// if (age === 18) console.log("You are an adult :D strict");
+// if (age == 18) console.log("You are an adult :D loose");
+
+// const favourite = Number(prompt("What is your favourite number?"));
+// // console.log(favourite);
+
+// if (favourite === 5) {
+//   console.log("Heeyy 5 is good number");
+// } else if (favourite === 6) {
+//   console.log("Heeyy 6 is good number");
+// } else if (favourite === 7) {
+//   console.log("Heeyy 7 is good number");
+// } else {
+//   console.log("Nooooooo!");
+// }
+
+// if (favourite !== 7) console.log("Why 7 isnt!");
+
+// const weather = prompt("Bugun havo qanday");
+
+// if (weather === "yomgir") {
+//   console.log("bugn yomgr yogyapdi");
+// } else if (weather === "qor") {
+//   console.log("Bugun qor");
+// } else if (weather === "bulut") {
+//   console.log("Bulutlu havo");
+// } else {
+//   console.log("Erooooooooor");
+// }
+
+// const hasDriversLicense = true;
+// const hasGoodVision = false;
+// const isTired = true;
+
+// console.log(hasDriversLicense && !hasGoodVision && isTired);
+// const shouldDrive = hasDriversLicense || hasGoodVision;
+
+// if (shouldDrive) {
+//   console.log("Ready to drive");
+// } else {
+//   console.log("Not ready");
+// }
