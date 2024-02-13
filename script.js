@@ -346,3 +346,25 @@ let firstName = "Jonas"; */
 // } else {
 //   console.log("Not ready");
 // }
+
+/* -------------------------------------------hometask-----------------------------
+const scoreDolphins = (97 + 60 + 101) / 3;
+const scoreKoalas = (109 + 70 + 106) / 3;
+
+console.log(scoreDolphins, scoreKoalas);
+
+if (scoreDolphins > scoreKoalas && scoreDolphins >= 100) {
+  console.log("Dolphins win the game");
+} else if (scoreKoalas > scoreDolphins && scoreKoalas >= 100) {
+  console.log("Koalas win the game");
+} else if (
+  scoreDolphins === scoreKoalas &&
+  scoreDolphins >= 100 &&
+  scoreKoalas >= 100
+) {
+  console.log("Both temas win the game");
+} else {
+  console.log("No teams win the game!!!");
+}
+-------------------------------------------hometask-----------------------------
+*/
