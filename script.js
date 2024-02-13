@@ -368,3 +368,82 @@ if (scoreDolphins > scoreKoalas && scoreDolphins >= 100) {
 }
 -------------------------------------------hometask-----------------------------
 */
+
+// const day = prompt("Bugn haftaning qaysi kuni");
+// switch (day) {
+//   case "monday": // day === "manday"
+//     console.log("Dushanba 1-kun");
+//     break;
+//   case "thueday":
+//     console.log("Seshanba 2-kun");
+//     break;
+//   case "wednesday":
+//     console.log("Chorshanba 3-kun");
+//     break;
+//   case "thursday":
+//     console.log("Payshanba 4-kun");
+//     break;
+//   case "friday":
+//     console.log("Juma 5-kun");
+//     break;
+//   case "saturday":
+//     break;
+//   case "sunday":
+//     console.log("Yakshanba dam olish kuni");
+//     break;
+//   default:
+//     console.log("bunday hafta kuni yoq");
+//     break;
+// }
+
+// if (day === "monday") {
+//   console.log("Dushanba 1-kun");
+// } else if (day === "thuesday") {
+//   console.log("Seshanba 2-kun");
+// } else if (day === "wednesday") {
+//   console.log("Chorshanba 3-kun");
+// } else {
+//   console.log("error");
+// }
+
+// ternary operator
+// const age = 17;
+
+// age >= 18 ? console.log("I am older") : console.log("I am younger");
+
+// if (age >= 18) {
+//   console.log("I am older");
+// } else {
+//   console.log("I am younger");
+// }
+
+// const age = 17;
+// const whoAreYou = age >= 18 ? "older" : "younger";
+// console.log(whoAreYou);
+
+// const age = 18;
+
+// let whoAreYou;
+// if (age >= 17) {
+//   whoAreYou = "older";
+// } else {
+//   whoAreYou = "younger";
+// }
+// console.log(whoAreYou);
+
+// const age = 17;
+// console.log(`i am ${age >= 18 ? "older" : "younger"}`);
+
+// const isRaining = false;
+// const action = isRaining ? "Take an umbrella" : "Leave the umbrella";
+// console.log(action); // Output: Take an umbrella
+
+// ------------------------ practise ------------------
+
+// const bill = 40;
+// const tip = bill >= 50 && bill <= 300 ? bill * 0.15 : bill * 0.2;
+// console.log(
+//   `The bill was ${bill}, tip was ${tip}, and the total value ${bill + tip}`
+// );
+// const age = 20;
+// console.log(age, typeof age);
